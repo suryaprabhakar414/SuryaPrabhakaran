@@ -1,4 +1,12 @@
 - layout: top-middle
+  name: Technische Universität München
+  dates: 2022 - Present
+  qualification: M. Sc. Informatics
+  #quote: >
+  #description: >
+   # Description of qualification
+
+- layout: top-middle
   name: SRM Institute of Science and Technology
   dates: 2016 - 2020
   qualification: B. Tech Computer Science and Engineering
