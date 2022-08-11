@@ -37,7 +37,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: _test/images/Surya1.jpeg
 about_content: > # this means to ignore newlines until the next config item.
-  Hi, I'm Surya, M.Sc. Informatics student at the Technische Universität München, My interests lie in the field of Deep Learning and Computer Vision. I've worked on several Computer Vision projects and have hands-on experience and knowledge in various Deep Learning Architectures. I'm looking forward to implementing Deep Learning in various fields such as Medical, Self Driving vehicles, Security, etc.. Extremely interested in working on 2D/3D generative models, 2D/3D image segmentation, 2D/3D object detection and 3D Reconstruction
+  Hi, I'm Surya, M.Sc. Informatics student at the Technische Universität München, My interests lie in the field of Deep Learning and Computer Vision. I've worked on several Computer Vision projects and have hands-on experience and knowledge in various Deep Learning Architectures. I'm looking forward to implementing Deep Learning in various fields such as Medical, Self Driving vehicles, Security, etc.. Extremely interested in working on 2D/3D generative models, 2D/3D image segmentation, 2D/3D object detection and 3D Reconstruction.
 # Education Section
 # educaton_title: Education #(Use this to override about education section title)
 
