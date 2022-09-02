@@ -1,4 +1,15 @@
 - layout: top-middle
+  name: Stereo Reconstruction
+  #link: 
+  github: /suryaprabhakar414/Stereo_Reconstruction_Project.git
+  #quote: >
+    #Short overview of the project
+  description: >
+    * Performed Stereo Reconstruction on the KITTI Stereo 2015 dataset. 
+    
+    * Implemented Block Matching, Semi Global Matching for generating the disparity maps and also used SIFT, SURF and ORB for keypoint matching, triangulation and generation of point clouds.
+   
+- layout: top-middle
   name: Computer Pointer Controller
   #link: 
   github: /suryaprabhakar414/Computer-Pointer-Controller-OpenVINO.git
