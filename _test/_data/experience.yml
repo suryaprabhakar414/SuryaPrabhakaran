@@ -1,4 +1,14 @@
 - layout: top-middle
+  company: Blickfeld
+  #link: https://google.com
+  job_title: AI Work Student
+  dates: December 2022 - Present
+  #quote: >
+   #Short description of the company (optional)
+  description: >
+     
+
+- layout: top-middle
   company: Tata Consultancy Services
   #link: https://google.com
   job_title: System Engineer
