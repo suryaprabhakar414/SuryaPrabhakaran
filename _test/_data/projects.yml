@@ -1,4 +1,17 @@
 - layout: top-middle
+  name: Inverse Rendering using NERF
+  #link: 
+  github: /suryaprabhakar414/Stereo_Reconstruction_Project.git
+  #quote: >
+    #Short overview of the project
+  description: >
+    * Worked on the NVDIFFRECMC(CVPR,22) architecture by NVIDIA.
+    
+    * Developed a Neural BRDF model for optimizing the material part.
+    
+    * Improved denoising significantly using a diffusion-based model.
+    
+- layout: top-middle
   name: Stereo Reconstruction
   #link: 
   github: /suryaprabhakar414/Stereo_Reconstruction_Project.git
