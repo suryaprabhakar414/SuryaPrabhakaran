@@ -6,8 +6,9 @@
   #quote: >
    #Short description of the company (optional)
   description: >
-     
-
+      - Performed 3D Object Detection on Kitti 3D Object Detection velodyne dataset by implementing Pointpillars architecture on the OpenPCDet framework.
+      - Worked on end-to-end model deployment.
+    
 - layout: top-middle
   company: Tata Consultancy Services
   #link: https://google.com
