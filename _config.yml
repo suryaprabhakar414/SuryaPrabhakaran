@@ -37,13 +37,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: _test/images/Surya1.jpeg
 about_content: > # this means to ignore newlines until the next config item.
-  Hi, I'm Surya, M.Sc. Informatics student at the Technische Universität München, My interests lie at the intersection of AI-driven software architectures and autonomous driving systems
-  (ADAS), with a strong focus on real-time perception, sensor fusion, and AI pipeline optimization for
-  autonomous vehicles. I specialize in developing scalable solutions for multimodal 3D object detection,
-  trajectory optimization, and sensor data integration using LiDAR, cameras, and deep learning techniques.
-  My goal is to contribute to the advancement of autonomous driving technologies by leveraging predictive
-  modeling, reinforcement learning, and active learning to improve real-time decision-making, perception,
-  and safety in ADAS applications and autonomous systems.
+  Hi, I'm Surya, M.Sc. Informatics student at the Technische Universität München, 
+  My interests lies in developing AI-driven software architectures for autonomous driving, focusing on real-
+  time perception, decision-making, and safety optimization. My expertise includes 3D object detection,
+  sensor fusion, and trajectory optimization using LiDAR, cameras, and deep learning. I specialize in 
+  processing large-scale sensor data for robust environmental perception, integrating SLAM, object detection,
+  and reinforcement learning to enhance autonomous vehicle safety and efficiency. My goal is to advance
+  safe and efficient autonomous systems by optimizing AI pipelines, deploying multimodal sensor fusion
+  strategies, and improving active learning methodologies for real-time applications in self-driving vehicles,
+  drones, and robotic platforms.
 # Education Section
 # educaton_title: Education #(Use this to override about education section title)
 
