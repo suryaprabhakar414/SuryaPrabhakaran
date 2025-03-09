@@ -5,8 +5,11 @@
   dates: July 2024 - Jan 2025
   description: >
       * Developed a novel Active Learning (AL) strategy for LiDAR-based 3D object detection.
+
       * Designed an architecture-agnostic approach with a unified uncertainty score, combining localization and classification uncertainty.
+
       * Achieved an mAP of 70.34% with 25% of labeled KITTI data.
+
       * Containerized the entire pipeline using Docker for reproducibility and seamless deployment, enabling scalable experimentation and model training.
 
 - layout: top-middle
@@ -15,8 +18,11 @@
   dates: May 2023 - Dec 2023
   description: >
       * Developed a 3D Object Detection system for TUM EDGAR vehicle using camera & LiDAR.
+
       * Built an Autoware Perception pipeline with ROS2 & Docker, optimizing inference for low-latency deployment, critical for real-time perception in autonomous driving systems.
+
       * Integrated and deployed the perception pipeline on an autonomous vehicle, ensuring seamless hardware-software interaction for real-time processing.
+
       * Implemented CNN-based models SMOKE (camera-based) and PointPillars (LiDAR-based) models with inference times of 24.8 ms and 21.2 ms respectively.
 
 - layout: top-middle
@@ -25,7 +31,9 @@
   dates: June 2023 - July 2023
   description: >
       * Predicted stable grasp points for an object in the given RGB-D image.
+
       * Implemented SGPA for category-level 6D pose estimation, reaching a 3D IOU of 80.1%.
+
       * Generated multi-scale grasp poses using DexGraspNet for the training dataset.
 
 - layout: top-middle
@@ -34,6 +42,7 @@
   dates: Oct 2022 - Feb 2023
   description: >
       * Worked on the NVDIFFRECMC (CVPR’22) architecture by NVIDIA, developing a Neural BRDF model for material optimization.
+
       * Enhanced denoising using a diffusion-based model, achieving a SSIM of 0.94.
 
 - layout: top-middle
@@ -42,7 +51,9 @@
   dates: June 2022
   description: >
       * Performed Stereo Reconstruction on the KITTI Stereo 2015 dataset using Block Matching and Semi-Global Matching for disparity map generation.
+
       * Utilized SIFT, SURF, and ORB for keypoint matching, triangulation, and point cloud generation.
+      
       * Obtained an average disparity error of ∼1.3 px.
 
 - layout: top-middle
