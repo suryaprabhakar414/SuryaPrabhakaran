@@ -1,17 +1,14 @@
 - layout: top-middle
   name: Technische Universität München
-  dates: 2022 - Present
+  dates: April 2022 - April 2025
   qualification: M. Sc. Informatics
-  #quote: >
-  #description: >
-   # Description of qualification
+  quote: >
+    Thesis: Active Learning with Gaussian and Heuristic Features for 3D Object Detection (Grade: 1.0)
+    CGPA: 1.8
 
 - layout: top-middle
   name: SRM Institute of Science and Technology
-  dates: 2016 - 2020
-  qualification: B. Tech Computer Science and Engineering
+  dates: July 2016 - May 2020
+  qualification: B. Tech. Computer Science and Engineering
   quote: >
-    CGPA:- 8.78
-  #description: >
-   # Description of qualification
-
+    CGPA: 8.78
