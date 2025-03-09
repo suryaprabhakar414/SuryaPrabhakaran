@@ -5,8 +5,11 @@
   location: Munich, Germany
   description: >
       - Developed and deployed a real-time AI pipeline for LiDAR-based 3D Object Detection and Tracking, enhancing autonomous perception for traffic management applications.
+
       - Integrated the system into real-world sensor networks using ROS2 & Docker on NVIDIA Jetson Orin, ensuring low-latency model inference and efficient data streaming.
+      
       - Improved detection accuracy from 65.3 mAP to 68.1 mAP using Active Learning.
+      
       - Implemented Software Continuous Integration (CI) using GitLab CI/CD, automating model deployment and validation for a scalable and efficient AI pipeline.
 
 - layout: top-middle
@@ -16,7 +19,9 @@
   location: Munich, Germany
   description: >
       - Designed a 3D object tracking & trajectory prediction pipeline, leveraging Stereo Reconstruction & Kalman Filtering for SLAM-based localization in dynamic environments, achieving 30 FPS real-time inference.
+      
       - Developed a real-time teleoperation system for Dexterous Object Grasping on Diana 7 and the 5-finger HIT Hand, leveraging Mediapipe & Frankmocap, achieving smooth 25 FPS performance.
+      
       - Achieved high-speed 3D arm tracking for Diana 7 using the M3T tracker, optimizing inference time to just 12 ms, enhancing precision in robotic manipulation and automation.
 
 - layout: top-middle
@@ -26,7 +31,9 @@
   location: Munich, Germany
   description: >
       - Developed and optimized a 3D Object Detection pipeline for autonomous driving using PointPillars architecture on OpenPCDet framework.
+      
       - Deployed models using OpenVINO, reducing inference time to 50 ms per frame, enhancing real-time performance.
+      
       - Integrated CI/CD workflows for automated model deployment, ensuring efficient updates and reproducibility in AI pipelines.
 
     
